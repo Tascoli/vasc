@@ -89,6 +89,6 @@ Cirurgia Realizada: Tratamento Cirúrgico de Varizes (Unilateral) - 040602057-4
 3. Dissecção e ligadura das veias perfurantes identificadas;
 4. Ressecção de trajetos unilateral/bilateral através de mini-incisões e agulhas de crochê e pinças hemostáticas;
 5. Retirada do fleboextrator no sentido crâniopodálico bilateralmente e compressão hemostática;
-6. Revisão da hemostasia; 
-7. Fechamento por planos Mononylon 4-0; 
+6. Revisão da hemostasia;
+7. Fechamento por planos Mononylon 4-0;
 8. Curativo com micropore + compressas + ataduras.
