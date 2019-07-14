@@ -92,3 +92,15 @@ Cirurgia Realizada: Tratamento Cirúrgico de Varizes (Unilateral) - 040602057-4
 6. Revisão da hemostasia;
 7. Fechamento por planos Mononylon 4-0;
 8. Curativo com micropore + compressas + ataduras.
+
+### Trombectomia – Veia Safena Magna
+
+1. Decúbito dorsal;
+2. Assepsia com Clorexidine 2% alcoólica + colocação dos campos estéreis;
+3. Incisão longitudinal em região inguinal________(esquerda ou direita);
+4. Dissecção por planos com ligadura das tributárias e ramos linfáticos com poliester 3-0;
+5. Isolamento e reparo da veia safena magna próximo a junção safeno-femoral com identificação de inflamação peri-vascular;
+6. Abertura da veia com identificação de bom refluxo venoso, sem evidência de trombo proximal, ligadura dupla no cajado proximal e distalmente com secção da veia com poliester 2-0;
+7. Revisão hemostasia;
+8. Fechamento por planos com mononylon 4-0;
+9. Curativo com micropore + compressas + ataduras
