@@ -1,1 +1,1 @@
-Repositorio com material de apoio.
+Repositório com material de apoio.
