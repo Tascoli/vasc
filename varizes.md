@@ -14,50 +14,73 @@ Cirurgia Realizada: Tratamento Cirúrgico de Varizes (Unilateral) - 040602057-4
 ### Varizes Bilateral com Safenectomia Bilateral
 
 1. Decúbito dorsal;
-2. Assepsia com Clorexidine  alcoólica 2% + colocação dos campos estéreis;
+2. Assepsia com clorexidine alcoólica 2% + colocação dos campos estéreis;
 3. Incisão na prega inguinal direita, dissecção por planos;
 4. Dissecção da veia safena magna e sua crossa, com a identificação da veia femoral e ligadura das tributárias da veia safena magna com poliéster 3.0;
-5. Secção entre pinças hemostáticas e ligadura dupla da junção safeno-femoral com poliéster 2-0;
+5. Secção entre pinças hemostáticas e ligadura dupla da junção safeno femoral com poliéster 2-0;
 6. Dissecção antemaleolar direita, identificação da veia safena magna, secção entre pinças hemostáticas, ligadura do coto distal com poliéster 3-0;
-7. Introdução (proximal ou distal) do  fleboextrator com exteriorização e fixação do mesmo;
-8. Revisão da hemostasia; 
+7. Introdução (proximal ou distal) do fleboextrator com exteriorização e fixação do mesmo;
+8. Revisão da hemostasia;
 9. Incisão na prega inguinal esquerda, dissecção por planos;
 10. Dissecção da veia safena magna e sua crossa, com a identificação da veia femoral e ligadura das tributárias da veia safena magna com poliéster 3.0;
-11. Secção entre pinças hemostáticas e ligadura dupla da junção safeno-femoral com poliéster 2-0;
+11. Secção entre pinças hemostáticas e ligadura dupla da junção safeno femoral com poliéster 2-0;
 12. Dissecção antemaleolar esquerda, identificação da veia safena magna, secção entre pinças hemostáticas, ligadura do coto distal com poliéster 3-0;
 13. Introdução (proximal ou distal) do  fleboextrator com exteriorização e fixação do mesmo;
 14. Revisão da hemostasia;
 15. Dissecção e ligadura das veias perfurantes identificadas;
 16. Ressecção de trajetos bilateral através de mini-incisões com agulhas de crochê e pinças hemostáticas;
-17. Retirada do fleboextrator no sentido crâniopodálico bilateralmente e compressão hemostática;
+17. Retirada do fleboextrator no sentido crânio-podálico bilateralmente e compressão hemostática;
 18. Revisão da hemostasia;
 19. Fechamento por planos com Mononylon 4-0;
 20. Curativo com micropore + compressas + ataduras.
 
-### Varizes Unilateral/Bilateral  com Safenectomia Parva 
+### Varizes Bilateral / Unilateral com USG
+
+01. Decúbito dorsal;
+02. Assepsia com clorexidine alcoólica 2%+ colocação dos campos estéreis;
+03. Identificação da JSF ___ e VSM ____ com auxílio de USG;
+04. Incisão na prega inguinal _____, dissecção por planos;
+05. Dissecção da veia safena magna e sua crossa, com a identificação da veia femoral;
+05. Ligadura das veias tributárias da VSM com poliéster 3.0;
+07. Secção da VSM entre pinças hemostáticas e ligadura dupla da junção safeno femoral com poliéster 2-0;
+08. Introdução proximal do fleboextrator;
+09. Visualização do fleboextrator na região genicular com auxilio de USG;
+10. Dissecção por planos e exteriorização do fleboextrator;
+11. Secção entre pinças da VSM na sua porção genicular;
+12. Ligadura do coto proximal e do coto distal com poliéster 2-0;
+13. Realização de anestesia com solução tumescente no trajeto VSM com auxílio da USG;
+14. Dissecção e ligadura das veias perfurantes identificadas;
+15. Ressecção de trajetos BILATERALMENTE ou UNILATERALMENTE através de mini-incisões e agulhas de crochê e pinças hemostáticas;
+16. Retirada do fleboextrator no sentido crânio-podálico e compressão hemostática;
+17. Revisão da hemostasia;
+18. Fechamento por planos com Vycril 3-0 e Mononylon 3-0;
+19. Curativo com micropore + compressas + ataduras.
+20. Colocação da meia de compressão 35mmHg
+
+### Varizes Unilateral/Bilateral  com Safenectomia Parva
 
 1. Decúbito ventral;
-2. Assepsia com Clorexidine  alcoólica 2%+ colocação dos campos estéreis;
+2. Assepsia com clorexidine alcoólica 2%+ colocação dos campos estéreis;
 3. Incisão retromaleolar externa, identificação da veia safena parva e isolamento do nervo sural;
 4. Incisão transversal na fossa poplítea, dissecção por planos até a fáscia profunda com incisão da mesma e identificação da veia safena parva;
 5. Secção entre pinças hemostáticas, em sua porção retromaleolar, e ligadura do coto distal com poliéster 3-0;
-6. Introdução proximal do  fleboextrator e progressão do mesmo até junção parvo-poplítea;
+6. Introdução proximal do fleboextrator e progressão do mesmo até junção parvo-poplítea;
 7. Secção entre pinças hemostáticas da veia safena parva e ligadura dupla da junção parvo-poplitea com poliéster 2-0;
 8. Exteriorização do fleboextrator e fixação do mesmo;
 9. Revisão da hemostasia;
 10. Dissecção e ligadura das veias perfurantes identificadas;
 11. Ressecção de trajetos unilateral/bilateral através de mini-incisões e agulhas de crochê e pinças hemostáticas;
-12. Retirada do fleboextrator no sentido crâniopodálico e compressão hemostática;
+12. Retirada do fleboextrator no sentido crânio-podálico e compressão hemostática;
 13. Fechamento por planos com Mononylon 4-0;
 14. Curativo com micropore + compressas + ataduras.
 
 ### Varizes Unilateral/Bilateral  com Crossectomia
 
 1. Decúbito dorsal;
-2. Assepsia com Clorexidine  alcoólica 2%+ colocação dos campos estéreis;
+2. Assepsia com clorexidine alcoólica 2%+ colocação dos campos estéreis;
 3. Incisão na prega inguinal direita/esquerda, dissecção por planos;
 4. Dissecção da veia safena magna e sua crossa, com a identificação da veia femoral e ligadura das tributárias da veia safena magna com poliéster 3.0;
-5. Secção entre pinças hemostáticas e ligadura dupla da junção safeno-femoral com poliéster 2-0;
+5. Secção entre pinças hemostáticas e ligadura dupla da junção safeno femoral com poliéster 2-0;
 6. Revisão da hemostasia;
 7. Dissecção e ligadura das veias perfurantes identificadas;
 8. Ressecção de trajetos unilateral/bilateral através de mini-incisões e agulhas de crochê e pinças hemostáticas;
@@ -68,16 +91,16 @@ Cirurgia Realizada: Tratamento Cirúrgico de Varizes (Unilateral) - 040602057-4
 ### Varizes Unilateral/Bilateral com Safenectomia Unilateral
 
 1. Decúbito dorsal;
-2. Assepsia com Clorexidine  alcoólica 2%+ colocação dos campos estéreis;
+2. Assepsia com clorexidine  alcoólica 2%+ colocação dos campos estéreis;
 3. Incisão na prega inguinal direita/esquerda, dissecção por planos;
 4. Dissecção da veia safena magna e sua crossa, com a identificação da veia femoral e ligadura das tributárias da veia safena magna com poliéster 3.0;
-5. Secção entre pinças hemostáticas e ligadura dupla da junção safeno-femoral com poliéster 2-0;
+5. Secção entre pinças hemostáticas e ligadura dupla da junção safeno femoral com poliéster 2-0;
 6. Dissecção antemaleolar direita/esquerda, identificação da veia safena magna, secção entre pinças hemostáticas, ligadura do coto distal com poliéster 3-0;
 7. Introdução (proximal ou distal) do  fleboextrator com exteriorização e fixação do mesmo;
 8. Revisão da hemostasia;
 9. Dissecção e ligadura das veias perfurantes identificadas;
 10. Ressecção de trajetos unilateral/bilateral através de mini-incisões e agulhas de crochê e pinças hemostáticas;
-11. Retirada do fleboextrator no sentido crâniopodálico bilateralmente e compressão hemostática;
+11. Retirada do fleboextrator no sentido crânio-podálico bilateralmente e compressão hemostática;
 12. Revisão da hemostasia;
 13. Fechamento por planos com Mononylon 4-0;
 14. Curativo com micropore + compressas + ataduras.
@@ -85,10 +108,10 @@ Cirurgia Realizada: Tratamento Cirúrgico de Varizes (Unilateral) - 040602057-4
 ### Varizes Unilateral/Bilateral  sem Safenetomia
 
 1. Decúbito dorsal;
-2. Assepsia com Clorexidine  alcoólica 2%+ colocação dos campos estéreis;
+2. Assepsia com clorexidine  alcoólica 2%+ colocação dos campos estéreis;
 3. Dissecção e ligadura das veias perfurantes identificadas;
 4. Ressecção de trajetos unilateral/bilateral através de mini-incisões e agulhas de crochê e pinças hemostáticas;
-5. Retirada do fleboextrator no sentido crâniopodálico bilateralmente e compressão hemostática;
+5. Retirada do fleboextrator no sentido crânio-podálico bilateralmente e compressão hemostática;
 6. Revisão da hemostasia;
 7. Fechamento por planos Mononylon 4-0;
 8. Curativo com micropore + compressas + ataduras.
@@ -96,11 +119,11 @@ Cirurgia Realizada: Tratamento Cirúrgico de Varizes (Unilateral) - 040602057-4
 ### Trombectomia – Veia Safena Magna
 
 1. Decúbito dorsal;
-2. Assepsia com Clorexidine 2% alcoólica + colocação dos campos estéreis;
+2. Assepsia com clorexidine 2% alcoólica + colocação dos campos estéreis;
 3. Incisão longitudinal em região inguinal________(esquerda ou direita);
-4. Dissecção por planos com ligadura das tributárias e ramos linfáticos com poliester 3-0;
-5. Isolamento e reparo da veia safena magna próximo a junção safeno-femoral com identificação de inflamação peri-vascular;
-6. Abertura da veia com identificação de bom refluxo venoso, sem evidência de trombo proximal, ligadura dupla no cajado proximal e distalmente com secção da veia com poliester 2-0;
+4. Dissecção por planos com ligadura das tributárias e ramos linfáticos com poliéster 3-0;
+5. Isolamento e reparo da veia safena magna próximo a junção safeno femoral com identificação de inflamação peri-vascular;
+6. Abertura da veia com identificação de bom refluxo venoso, sem evidência de trombo proximal, ligadura dupla no cajado proximal e distalmente com secção da veia com poliéster 2-0;
 7. Revisão hemostasia;
 8. Fechamento por planos com mononylon 4-0;
 9. Curativo com micropore + compressas + ataduras
