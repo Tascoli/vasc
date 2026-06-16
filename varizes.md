@@ -127,3 +127,26 @@ Cirurgia Realizada: Tratamento Cirúrgico de Varizes (Unilateral) - 040602057-4
 7. Revisão hemostasia;
 8. Fechamento por planos com mononylon 4-0;
 9. Curativo com micropore + compressas + ataduras
+
+
+
+### Varizes com termo ablação
+
+• Bloqueio do Nervo Femoral;
+• Decúbito dorsal;
+• Assepsia com clorexidine alcoólica 0,5% + colocação dos campos estéreis;
+• Punção distal ao refluxo da VSM/VSP guiada por USG conforme a técnica de SELDINGER;
+• Colocação do introdutor 4-5-6F;
+• Introdução da fibra de 400/600µm e posicionamento da mesma a 2cm a JSF/JSP;
+• Fixação da fibra na marcação de ___cm e posicionamento do(a) paciente em TRENDLEMBURG;
+• Infiltração de solução tumescente ao redor da veia a ser tratada de distal para proximal;
+• Verificação do posicionamento da fibra a 2cm da junção e inicío dos disparos;
+• Traciomento da fibra durante a realisação dos disparos respeitanto o planejamento pré-operatório, ___W ao longo do trajeto resultando em um LEED de ___J/cm;
+• Retirado o introdutor;
+• Realizado revisão com ultrassonográfica da JSF/JSP sem a indentificação de trombos, também foi identificado o sinal da pérola em todo segmento tratado;
+• Dissecção e ligadura das veias perfurantes identificadas;
+• Ressecção de trajetos BILATEALMENTE ou UNILATERALMENTE através de mini-incisões e agulhas de crochê e pinças hemostáticas;
+• Revisão da hemostasia;
+• Curativo com micropore;
+• Colocação da meia elástica pós-operatório com compressão 35mmHg.
+
